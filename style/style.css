@@ -1,0 +1,15 @@
+   body{
+     background-color:black;
+     font-family:Lobster;
+     font-size:20px;
+          }
+          h1,h3{
+              color:white;
+          }
+    .boxed{
+      border:2px solid transparent;
+          width:100%;
+         max-width:60%;
+          }
+ <title>The Pepper Foundation</title>
+    
